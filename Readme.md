@@ -3,7 +3,7 @@
 ## Ausgangslage
 | Der See bevor Bouncer alle Schätze geborgen hat. | Der See nachdem Bouncer alle Schätze geborgen hat. |
 | ------------------------------------------------ | -------------------------------------------------- |
-| ![Der See bevor Bouncer alle Schätze geborgen hat.](docs/pool_start.png) | ![Der See nachdem Bouncer die Schätze gehoben hat.](docs/pool_finished.png) |
+| ![Der See bevor Bouncer alle Schätze geborgen hat.](./docs/pool_start.png) | ![Der See nachdem Bouncer die Schätze gehoben hat.](./docs/pool_finished.png) |
 
 Bouncer steht in dieser Aufgabe vor einem See, in dem eine Reihe von
 versunkenen Schätze auf dem Grund liegen (*rote Felder*). Bouncers
