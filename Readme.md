@@ -1,4 +1,4 @@
-# U02-2 | Bouncer auf Schatzsuche
+# U05 | Bouncer auf Schatzsuche
 
 ## Ausgangslage
 | Der See bevor Bouncer alle Schätze geborgen hat. | Der See nachdem Bouncer alle Schätze geborgen hat. |
