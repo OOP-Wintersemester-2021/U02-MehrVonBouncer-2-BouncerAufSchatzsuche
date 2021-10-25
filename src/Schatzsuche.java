@@ -11,7 +11,7 @@ public class Schatzsuche extends BouncerApp {
         enterPool();
         diveIn();
         clearPool();
-        diveOut();
+        surface();
     }
 
     /**
@@ -43,7 +43,7 @@ public class Schatzsuche extends BouncerApp {
      * Pre-condition: Bouncer is in the southeast of the see, under water, Bouncer faces east.
      * Post-condition: Bouncer is at the east edge of the map at the water edge, Bouncer faces east.
      */
-    private void diveOut() {
+    private void surface() {
         bouncer.turnLeft();
         while (bouncer.canNotMoveRight()) {
             bouncer.move();
